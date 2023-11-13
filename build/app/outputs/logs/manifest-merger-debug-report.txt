@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:10:4-40:19
+MERGED from [:geolocator_android] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-17:19
+MERGED from [:geolocator_android] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-17:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/achmaddp26/.gradle/caches/transforms-3/4a519d8241f18425848ee2eb361f7e88/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/achmaddp26/.gradle/caches/transforms-3/4a519d8241f18425848ee2eb361f7e88/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-location:20.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/8da7b9316dc3bdc622ea813ef9ea6b4b/transformed/jetified-play-services-location-20.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:20.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/8da7b9316dc3bdc622ea813ef9ea6b4b/transformed/jetified-play-services-location-20.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/achmaddp26/.gradle/caches/transforms-3/83a2cfe163433994fb7a23f70d6689ec/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/achmaddp26/.gradle/caches/transforms-3/83a2cfe163433994fb7a23f70d6689ec/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/achmaddp26/.gradle/caches/transforms-3/3c3d5b617cb9b250b236650858c6a808/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/achmaddp26/.gradle/caches/transforms-3/3c3d5b617cb9b250b236650858c6a808/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/fa79ae2f5e8fb5f4b79f5fc829614608/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/fa79ae2f5e8fb5f4b79f5fc829614608/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.8.0] /Users/achmaddp26/.gradle/caches/transforms-3/c2f2331e310f8721bc828c219e808af0/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/achmaddp26/.gradle/caches/transforms-3/c2f2331e310f8721bc828c219e808af0/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/achmaddp26/.gradle/caches/transforms-3/ca759dba06549035cbee0ff0cf942ae9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/achmaddp26/.gradle/caches/transforms-3/ca759dba06549035cbee0ff0cf942ae9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/achmaddp26/.gradle/caches/transforms-3/c2f2331e310f8721bc828c219e808af0/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from [:geolocator_android] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-19:12
+MERGED from [:geocoding] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geocoding/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/achmaddp26/.gradle/caches/transforms-3/5d1d5115b2c1deea26c991b2200490a5/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/achmaddp26/.gradle/caches/transforms-3/4a519d8241f18425848ee2eb361f7e88/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.gms:play-services-location:20.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/8da7b9316dc3bdc622ea813ef9ea6b4b/transformed/jetified-play-services-location-20.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/achmaddp26/.gradle/caches/transforms-3/83a2cfe163433994fb7a23f70d6689ec/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/achmaddp26/.gradle/caches/transforms-3/3c3d5b617cb9b250b236650858c6a808/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/fa79ae2f5e8fb5f4b79f5fc829614608/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/achmaddp26/.gradle/caches/transforms-3/da35c77f63e01a427124f9109fb20e5f/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/10f3a47b0d2080cd6f06b793f9e94833/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/224c054bc6ce9d5ecceaedb4dc71c916/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/461fab2247701f0b13ae4b39b1507ef8/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/6317637f578fde167d7e3037d430a134/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] /Users/achmaddp26/.gradle/caches/transforms-3/c2f2331e310f8721bc828c219e808af0/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/fb7b4ea12c7c2f84c25fde65bf6da484/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/achmaddp26/.gradle/caches/transforms-3/f191be5c65938974b2e1c19429369750/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/achmaddp26/.gradle/caches/transforms-3/ca759dba06549035cbee0ff0cf942ae9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/f4fd73e162042b6f79ec2bbc48355ad1/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/007a043c413d774b6a7fc90b25432524/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/2315791f2a3b0da2c3d9345ae6f7e71a/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/achmaddp26/.gradle/caches/transforms-3/3f0a5b7daf0ef3c3196b6cc59059b72a/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/achmaddp26/.gradle/caches/transforms-3/4ea1ba5eac806791bae07e3f68d837d6/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/achmaddp26/.gradle/caches/transforms-3/58eee7595de58f7e443e1f4592934861/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:2:5-50
+		INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:3:5-84
+	android:name
+		ADDED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:3:22-82
+uses-permission#android.permission.INTERNET
+ADDED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:9:22-76
+uses-sdk
+INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml
+MERGED from [:geolocator_android] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:geocoding] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geocoding/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:geocoding] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geocoding/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/achmaddp26/.gradle/caches/transforms-3/5d1d5115b2c1deea26c991b2200490a5/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/achmaddp26/.gradle/caches/transforms-3/5d1d5115b2c1deea26c991b2200490a5/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/achmaddp26/.gradle/caches/transforms-3/4a519d8241f18425848ee2eb361f7e88/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/achmaddp26/.gradle/caches/transforms-3/4a519d8241f18425848ee2eb361f7e88/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:20.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/8da7b9316dc3bdc622ea813ef9ea6b4b/transformed/jetified-play-services-location-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:20.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/8da7b9316dc3bdc622ea813ef9ea6b4b/transformed/jetified-play-services-location-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/achmaddp26/.gradle/caches/transforms-3/83a2cfe163433994fb7a23f70d6689ec/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/achmaddp26/.gradle/caches/transforms-3/83a2cfe163433994fb7a23f70d6689ec/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/achmaddp26/.gradle/caches/transforms-3/3c3d5b617cb9b250b236650858c6a808/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/achmaddp26/.gradle/caches/transforms-3/3c3d5b617cb9b250b236650858c6a808/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/fa79ae2f5e8fb5f4b79f5fc829614608/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/fa79ae2f5e8fb5f4b79f5fc829614608/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/achmaddp26/.gradle/caches/transforms-3/da35c77f63e01a427124f9109fb20e5f/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/achmaddp26/.gradle/caches/transforms-3/da35c77f63e01a427124f9109fb20e5f/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/10f3a47b0d2080cd6f06b793f9e94833/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/10f3a47b0d2080cd6f06b793f9e94833/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/224c054bc6ce9d5ecceaedb4dc71c916/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/224c054bc6ce9d5ecceaedb4dc71c916/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/461fab2247701f0b13ae4b39b1507ef8/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/461fab2247701f0b13ae4b39b1507ef8/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/6317637f578fde167d7e3037d430a134/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/6317637f578fde167d7e3037d430a134/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] /Users/achmaddp26/.gradle/caches/transforms-3/c2f2331e310f8721bc828c219e808af0/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/achmaddp26/.gradle/caches/transforms-3/c2f2331e310f8721bc828c219e808af0/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/fb7b4ea12c7c2f84c25fde65bf6da484/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/fb7b4ea12c7c2f84c25fde65bf6da484/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/achmaddp26/.gradle/caches/transforms-3/f191be5c65938974b2e1c19429369750/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/achmaddp26/.gradle/caches/transforms-3/f191be5c65938974b2e1c19429369750/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/achmaddp26/.gradle/caches/transforms-3/ca759dba06549035cbee0ff0cf942ae9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/achmaddp26/.gradle/caches/transforms-3/ca759dba06549035cbee0ff0cf942ae9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/f4fd73e162042b6f79ec2bbc48355ad1/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/f4fd73e162042b6f79ec2bbc48355ad1/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/007a043c413d774b6a7fc90b25432524/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/007a043c413d774b6a7fc90b25432524/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/2315791f2a3b0da2c3d9345ae6f7e71a/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/2315791f2a3b0da2c3d9345ae6f7e71a/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/achmaddp26/.gradle/caches/transforms-3/3f0a5b7daf0ef3c3196b6cc59059b72a/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/achmaddp26/.gradle/caches/transforms-3/3f0a5b7daf0ef3c3196b6cc59059b72a/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/achmaddp26/.gradle/caches/transforms-3/4ea1ba5eac806791bae07e3f68d837d6/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/achmaddp26/.gradle/caches/transforms-3/4ea1ba5eac806791bae07e3f68d837d6/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/achmaddp26/.gradle/caches/transforms-3/58eee7595de58f7e443e1f4592934861/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/achmaddp26/.gradle/caches/transforms-3/58eee7595de58f7e443e1f4592934861/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:geolocator_android] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from [:geolocator_android] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-74
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from [:geolocator_android] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-16:56
+	android:enabled
+		ADDED from [:geolocator_android] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:geolocator_android] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-37
+	android:foregroundServiceType
+		ADDED from [:geolocator_android] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-53
+	android:name
+		ADDED from [:geolocator_android] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-77
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/achmaddp26/.gradle/caches/transforms-3/4a519d8241f18425848ee2eb361f7e88/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/achmaddp26/.gradle/caches/transforms-3/4a519d8241f18425848ee2eb361f7e88/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/achmaddp26/.gradle/caches/transforms-3/4a519d8241f18425848ee2eb361f7e88/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/achmaddp26/.gradle/caches/transforms-3/4a519d8241f18425848ee2eb361f7e88/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/achmaddp26/.gradle/caches/transforms-3/4a519d8241f18425848ee2eb361f7e88/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/achmaddp26/.gradle/caches/transforms-3/4a519d8241f18425848ee2eb361f7e88/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/achmaddp26/.gradle/caches/transforms-3/83a2cfe163433994fb7a23f70d6689ec/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/achmaddp26/.gradle/caches/transforms-3/83a2cfe163433994fb7a23f70d6689ec/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/achmaddp26/.gradle/caches/transforms-3/83a2cfe163433994fb7a23f70d6689ec/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/achmaddp26/.gradle/caches/transforms-3/83a2cfe163433994fb7a23f70d6689ec/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/fa79ae2f5e8fb5f4b79f5fc829614608/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/fa79ae2f5e8fb5f4b79f5fc829614608/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/fa79ae2f5e8fb5f4b79f5fc829614608/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58

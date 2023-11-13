@@ -1,0 +1,40 @@
+<variant
+    name="release"
+    package="com.example.flutter_perkiraan_cuaca"
+    minSdkVersion="16"
+    targetSdkVersion="33"
+    shrinking="true"
+    mergedManifest="/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/intermediates/merged_manifest/release/AndroidManifest.xml"
+    proguardFiles="/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/intermediates/default_proguard_files/global/proguard-android.txt-7.3.0:/Users/achmaddp26/development/flutter_dev/flutter-3/packages/flutter_tools/gradle/flutter_proguard_rules.pro:proguard-rules.pro"
+    partialResultsDir="/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/intermediates/lint_vital_partial_results/release/out"
+    desugaredMethodsFiles="/Users/achmaddp26/.gradle/caches/transforms-3/69d682e2fb728d0150d2e382af47f23a/transformed/D8BackportedDesugaredMethods.txt">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifest="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/main/kotlin"
+        resDirectories="src/main/res"
+        assetsDirectories="src/main/assets"/>
+    <sourceProvider
+        manifest="src/release/AndroidManifest.xml"
+        javaDirectories="src/release/java:src/release/kotlin"
+        resDirectories="src/release/res"
+        assetsDirectories="src/release/assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <manifestPlaceholders>
+    <placeholder
+        name="applicationName"
+        value="android.app.Application" />
+  </manifestPlaceholders>
+  <mainArtifact
+      classOutputs="/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/intermediates/javac/release/classes:/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/tmp/kotlin-classes/release:/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/kotlinToolingMetadata:/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/R.jar"
+      applicationId="com.example.flutter_perkiraan_cuaca"
+      generatedSourceFolders="/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/generated/ap_generated_sources/release/out:/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/generated/aidl_source_output_dir/release/out:/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/generated/source/buildConfig/release:/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/generated/renderscript_source_output_dir/release/out"
+      generatedResourceFolders="/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/generated/res/rs/release:/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/generated/res/resValues/release">
+  </mainArtifact>
+</variant>

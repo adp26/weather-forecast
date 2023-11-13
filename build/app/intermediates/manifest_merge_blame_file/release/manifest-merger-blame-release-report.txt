@@ -1,0 +1,140 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.flutter_perkiraan_cuaca"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+11-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:3:5-84
+11-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:3:22-82
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:4:5-66
+12-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:5:5-78
+13-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:5:22-76
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:6:5-80
+14-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:6:22-78
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:7:5-80
+15-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:7:22-78
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:8:5-79
+16-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:8:22-77
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:9:5-79
+17-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:9:22-76
+18    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+18-->[:geolocator_android] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-77
+18-->[:geolocator_android] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-74
+19
+20    <application
+21        android:name="android.app.Application"
+21-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:12:9-42
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.8.0] /Users/achmaddp26/.gradle/caches/transforms-3/c2f2331e310f8721bc828c219e808af0/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+23        android:icon="@mipmap/ic_launcher"
+23-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:13:9-43
+24        android:label="flutter_perkiraan_cuaca" >
+24-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:11:9-48
+25        <activity
+25-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:14:9-34:20
+26            android:name="com.example.flutter_perkiraan_cuaca.MainActivity"
+26-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:15:13-41
+27            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+27-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:19:13-163
+28            android:exported="true"
+28-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:16:13-36
+29            android:hardwareAccelerated="true"
+29-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:20:13-47
+30            android:launchMode="singleTop"
+30-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:17:13-43
+31            android:theme="@style/LaunchTheme"
+31-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:18:13-47
+32            android:windowSoftInputMode="adjustResize" >
+32-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:21:13-55
+33
+34            <!--
+35                 Specifies an Android theme to apply to this Activity as soon as
+36                 the Android process has started. This theme is visible to the user
+37                 while the Flutter UI initializes. After that, this theme continues
+38                 to determine the Window background behind the Flutter UI.
+39            -->
+40            <meta-data
+40-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:26:13-29:17
+41                android:name="io.flutter.embedding.android.NormalTheme"
+41-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:27:15-70
+42                android:resource="@style/NormalTheme" />
+42-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:28:15-52
+43
+44            <intent-filter>
+44-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:30:13-33:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:31:17-68
+45-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:31:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:32:17-76
+47-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:32:27-74
+48            </intent-filter>
+49        </activity>
+50        <!--
+51             Don't delete the meta-data below.
+52             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+53        -->
+54        <meta-data
+54-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:37:9-39:33
+55            android:name="flutterEmbedding"
+55-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:38:13-44
+56            android:value="2" />
+56-->/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/AndroidManifest.xml:39:13-30
+57
+58        <service
+58-->[:geolocator_android] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:12:9-16:56
+59            android:name="com.baseflow.geolocator.GeolocatorLocationService"
+59-->[:geolocator_android] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-77
+60            android:enabled="true"
+60-->[:geolocator_android] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-35
+61            android:exported="false"
+61-->[:geolocator_android] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-37
+62            android:foregroundServiceType="location" />
+62-->[:geolocator_android] /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:16:13-53
+63
+64        <uses-library
+64-->[androidx.window:window:1.0.0-beta04] /Users/achmaddp26/.gradle/caches/transforms-3/4a519d8241f18425848ee2eb361f7e88/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+65            android:name="androidx.window.extensions"
+65-->[androidx.window:window:1.0.0-beta04] /Users/achmaddp26/.gradle/caches/transforms-3/4a519d8241f18425848ee2eb361f7e88/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+66            android:required="false" />
+66-->[androidx.window:window:1.0.0-beta04] /Users/achmaddp26/.gradle/caches/transforms-3/4a519d8241f18425848ee2eb361f7e88/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+67        <uses-library
+67-->[androidx.window:window:1.0.0-beta04] /Users/achmaddp26/.gradle/caches/transforms-3/4a519d8241f18425848ee2eb361f7e88/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+68            android:name="androidx.window.sidecar"
+68-->[androidx.window:window:1.0.0-beta04] /Users/achmaddp26/.gradle/caches/transforms-3/4a519d8241f18425848ee2eb361f7e88/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+69            android:required="false" />
+69-->[androidx.window:window:1.0.0-beta04] /Users/achmaddp26/.gradle/caches/transforms-3/4a519d8241f18425848ee2eb361f7e88/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+70
+71        <activity
+71-->[com.google.android.gms:play-services-base:18.0.1] /Users/achmaddp26/.gradle/caches/transforms-3/83a2cfe163433994fb7a23f70d6689ec/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+72            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+72-->[com.google.android.gms:play-services-base:18.0.1] /Users/achmaddp26/.gradle/caches/transforms-3/83a2cfe163433994fb7a23f70d6689ec/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+73            android:exported="false"
+73-->[com.google.android.gms:play-services-base:18.0.1] /Users/achmaddp26/.gradle/caches/transforms-3/83a2cfe163433994fb7a23f70d6689ec/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+74            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+74-->[com.google.android.gms:play-services-base:18.0.1] /Users/achmaddp26/.gradle/caches/transforms-3/83a2cfe163433994fb7a23f70d6689ec/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+75
+76        <meta-data
+76-->[com.google.android.gms:play-services-basement:18.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/fa79ae2f5e8fb5f4b79f5fc829614608/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+77            android:name="com.google.android.gms.version"
+77-->[com.google.android.gms:play-services-basement:18.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/fa79ae2f5e8fb5f4b79f5fc829614608/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+78            android:value="@integer/google_play_services_version" />
+78-->[com.google.android.gms:play-services-basement:18.0.0] /Users/achmaddp26/.gradle/caches/transforms-3/fa79ae2f5e8fb5f4b79f5fc829614608/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+79    </application>
+80
+81</manifest>

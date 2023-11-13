@@ -1,0 +1,4 @@
+#Mon Nov 13 10:29:10 WIB 2023
+base.0=/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

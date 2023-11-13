@@ -1,0 +1,12 @@
+com.baseflow.geocoding-jetified-window-1.0.0-beta04-0 /Users/achmaddp26/.gradle/caches/transforms-3/4a519d8241f18425848ee2eb361f7e88/transformed/jetified-window-1.0.0-beta04/res
+com.baseflow.geocoding-jetified-annotation-experimental-1.1.0-1 /Users/achmaddp26/.gradle/caches/transforms-3/58eee7595de58f7e443e1f4592934861/transformed/jetified-annotation-experimental-1.1.0/res
+com.baseflow.geocoding-jetified-window-java-1.0.0-beta04-2 /Users/achmaddp26/.gradle/caches/transforms-3/5d1d5115b2c1deea26c991b2200490a5/transformed/jetified-window-java-1.0.0-beta04/res
+com.baseflow.geocoding-core-1.6.0-3 /Users/achmaddp26/.gradle/caches/transforms-3/c0c55a33fdc5046d771f9988de5ec071/transformed/core-1.6.0/res
+com.baseflow.geocoding-main-4 /Users/achmaddp26/.pub-cache/hosted/pub.dev/geocoding-2.0.5/android/src/main/res
+com.baseflow.geocoding-release-5 /Users/achmaddp26/.pub-cache/hosted/pub.dev/geocoding-2.0.5/android/src/release/res
+com.baseflow.geocoding-pngs-6 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geocoding/generated/res/pngs/release
+com.baseflow.geocoding-resValues-7 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geocoding/generated/res/resValues/release
+com.baseflow.geocoding-rs-8 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geocoding/generated/res/rs/release
+com.baseflow.geocoding-mergeReleaseResources-9 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geocoding/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.baseflow.geocoding-mergeReleaseResources-10 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geocoding/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.baseflow.geocoding-merged_res-11 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geocoding/intermediates/merged_res/release

@@ -1,0 +1,18 @@
+com.example.flutter_perkiraan_cuaca.app-jetified-window-1.0.0-beta04-0 /Users/achmaddp26/.gradle/caches/transforms-3/4a519d8241f18425848ee2eb361f7e88/transformed/jetified-window-1.0.0-beta04/res
+com.example.flutter_perkiraan_cuaca.app-jetified-annotation-experimental-1.1.0-1 /Users/achmaddp26/.gradle/caches/transforms-3/58eee7595de58f7e443e1f4592934861/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.flutter_perkiraan_cuaca.app-jetified-window-java-1.0.0-beta04-2 /Users/achmaddp26/.gradle/caches/transforms-3/5d1d5115b2c1deea26c991b2200490a5/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.flutter_perkiraan_cuaca.app-jetified-play-services-base-18.0.1-3 /Users/achmaddp26/.gradle/caches/transforms-3/83a2cfe163433994fb7a23f70d6689ec/transformed/jetified-play-services-base-18.0.1/res
+com.example.flutter_perkiraan_cuaca.app-core-1.8.0-4 /Users/achmaddp26/.gradle/caches/transforms-3/c2f2331e310f8721bc828c219e808af0/transformed/core-1.8.0/res
+com.example.flutter_perkiraan_cuaca.app-lifecycle-runtime-2.3.1-5 /Users/achmaddp26/.gradle/caches/transforms-3/f191be5c65938974b2e1c19429369750/transformed/lifecycle-runtime-2.3.1/res
+com.example.flutter_perkiraan_cuaca.app-jetified-play-services-basement-18.0.0-6 /Users/achmaddp26/.gradle/caches/transforms-3/fa79ae2f5e8fb5f4b79f5fc829614608/transformed/jetified-play-services-basement-18.0.0/res
+com.example.flutter_perkiraan_cuaca.app-main-7 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/res
+com.example.flutter_perkiraan_cuaca.app-release-8 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/release/res
+com.example.flutter_perkiraan_cuaca.app-pngs-9 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/generated/res/pngs/release
+com.example.flutter_perkiraan_cuaca.app-resValues-10 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/generated/res/resValues/release
+com.example.flutter_perkiraan_cuaca.app-rs-11 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/generated/res/rs/release
+com.example.flutter_perkiraan_cuaca.app-mergeReleaseResources-12 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.flutter_perkiraan_cuaca.app-mergeReleaseResources-13 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.flutter_perkiraan_cuaca.app-merged_res-14 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/intermediates/merged_res/release
+com.example.flutter_perkiraan_cuaca.app-packaged_res-15 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geocoding/intermediates/packaged_res/release
+com.example.flutter_perkiraan_cuaca.app-packaged_res-16 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/packaged_res/release
+com.example.flutter_perkiraan_cuaca.app-packaged_res-17 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/path_provider_android/intermediates/packaged_res/release
