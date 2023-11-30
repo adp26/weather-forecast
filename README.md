@@ -1,7 +1,16 @@
-# weather forecast preview
+# flutter_perkiraan_cuaca
 
-first page:
-<img width="406" alt="first-page" src="https://github.com/adp26/weather-forecast/assets/47098592/638350a5-31ad-4cd9-809e-aba9ddf446ed">
+A new Flutter application.
 
-second page:
-<img width="404" alt="second-page" src="https://github.com/adp26/weather-forecast/assets/47098592/e51c6c9e-b167-43fc-8f05-854e8020e52b">
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

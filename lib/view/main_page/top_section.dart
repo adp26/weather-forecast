@@ -2,12 +2,12 @@ part of 'main_page.dart';
 
 class TopSection extends StatelessWidget {
   final dynamic selectedWeather;
-   String? timeUpdate;
-   bool? reset;
-   bool? daily;
+  String? timeUpdate;
+  bool? reset;
+  bool? daily;
   final int timezoneOffset;
-   String? location;
-  final double heightBackground =  K.width*475;
+  String? location;
+  final double heightBackground = K.width * 475;
   TopSection(this.location, this.selectedWeather, this.timeUpdate,
       this.timezoneOffset, this.daily, this.reset,
       {Key? key})
@@ -16,21 +16,19 @@ class TopSection extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // Weather objSelected = Weather.fromMap(selected, daily!);
-if(selectedWeather is HourlyWeather){
-  selectedWeather as HourlyWeather;
-}else{
-  selectedWeather as CurrentWeather;
-}
+    if (selectedWeather is HourlyWeather) {
+      selectedWeather as HourlyWeather;
+    } else {
+      selectedWeather as CurrentWeather;
+    }
     return SizedBox(
       height: heightBackground,
-  
       child: Stack(
         children: [
           Container(
-              margin: EdgeInsets.symmetric(
-                  horizontal: K.width * 10),
+              margin: EdgeInsets.symmetric(horizontal: K.width * 10),
               width: MediaQuery.of(context).size.width,
-              height: heightBackground,
+              // height: heightBackground,
               decoration: BoxDecoration(
                 borderRadius: const BorderRadius.only(
                   bottomLeft: Radius.circular(53.0),
@@ -44,7 +42,7 @@ if(selectedWeather is HourlyWeather){
             padding: EdgeInsets.only(bottom: K.height * 6.0),
             child: Container(
               width: double.infinity,
-              height: K.width*460,
+              // height: K.width*460,
               decoration: BoxDecoration(
                 borderRadius: const BorderRadius.only(
                   bottomLeft: Radius.circular(65.0),
@@ -66,12 +64,12 @@ if(selectedWeather is HourlyWeather){
                   mainAxisAlignment: MainAxisAlignment.start,
                   children: <Widget>[
                     Header(location: location!),
-                 
                     UpdateTime(
                       reset: reset!,
                     ),
                     SizedBox(
-                      width: K.width * 200,height: K.height * 180,
+                      width: K.width * 200,
+                      height: K.height * 180,
                       child: Image(
                         fit: BoxFit.cover,
                         image: AssetImage(
@@ -93,7 +91,9 @@ if(selectedWeather is HourlyWeather){
                                     fontSize: 60,
                                     fontWeight: FontWeight.w700),
                               ),
-                              const DegreeWidget(size: 20,),
+                              const DegreeWidget(
+                                size: 20,
+                              ),
                             ],
                           ),
                           Text(
@@ -108,9 +108,8 @@ if(selectedWeather is HourlyWeather){
                             height: 3,
                           ),
                           Text(
-                           convertDate(
-                                    selectedWeather.dt, timezoneOffset, daily!)
-                             ,
+                            convertDate(
+                                selectedWeather.dt, timezoneOffset, daily!),
                             style: const TextStyle(
                                 color: Color(0XFF69B5FF),
                                 fontFamily: K.fontFamily,
@@ -120,24 +119,24 @@ if(selectedWeather is HourlyWeather){
                         ],
                       ),
                     ),
-                   
                     Padding(
-                      padding: EdgeInsets.symmetric(vertical: K.height*5,
-                          horizontal: K.width * 30.0),
+                      padding: EdgeInsets.symmetric(
+                          vertical: K.height * 5, horizontal: K.width * 30.0),
                       child: Row(
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: [
                           Expanded(
                             child: ConditionWeather(
-                                number:
-                                    selectedWeather.windSpeed.toString() + "m/s",
+                                number: selectedWeather.windSpeed.toString() +
+                                    "m/s",
                                 pathImage: "Wind",
                                 sizeImage: 31,
                                 status: "Wind"),
                           ),
                           Expanded(
                             child: ConditionWeather(
-                                number: selectedWeather.humidity.toString() + "%",
+                                number:
+                                    selectedWeather.humidity.toString() + "%",
                                 pathImage: "Humadity",
                                 sizeImage: 12,
                                 status: "Humidity"),
@@ -160,14 +159,11 @@ if(selectedWeather is HourlyWeather){
               ),
             ),
           ),
-       
         ],
       ),
     );
   }
 }
-
-
 
 String convertDate(int data, int offset, bool daily) {
   dynamic dt = DateTime.fromMillisecondsSinceEpoch(data + offset);
@@ -178,4 +174,3 @@ String convertDate(int data, int offset, bool daily) {
   }
   return dataFormat;
 }
-

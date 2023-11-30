@@ -7,51 +7,56 @@ import 'package:flutter_perkiraan_cuaca/view/widget/condition_weather.dart';
 import 'package:flutter_perkiraan_cuaca/theme.dart';
 
 part 'header.dart';
+
 class TopSection extends StatelessWidget {
   final DailyWeather selectedWeather;
 
   final bool daily;
   final int timezoneOffset;
-   final double heightBackground =  K.width*300;
-   TopSection({Key? key, required this.selectedWeather, required this.timezoneOffset, required this.daily}) : super(key: key);
+  final double heightBackground = K.width * 300;
+  TopSection(
+      {Key? key,
+      required this.selectedWeather,
+      required this.timezoneOffset,
+      required this.daily})
+      : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     MySize().init(context);
 
-
     final sizedBox = SizedBox(
-                                height: MySize.scaleFactorHeight * 10,
-                              );
+      height: MySize.scaleFactorHeight * 10,
+    );
     return Scaffold(
       body: Container(
-        height: heightBackground,
-        color:  backgroundColor ,
+        // height: heightBackground,
+        color: backgroundColor,
         child: Stack(
           children: [
             Container(
-        
               margin: EdgeInsets.symmetric(
                   horizontal: MySize.scaleFactorWidth * 10),
               child: Center(
                 child: Container(
                     width: MediaQuery.of(context).size.width,
-              
                     decoration: BoxDecoration(
                       border: Border.all(color: Colors.transparent, width: 0),
                       borderRadius: const BorderRadius.only(
                         bottomLeft: Radius.circular(53.0),
                         bottomRight: Radius.circular(53.0),
                       ),
-                      color:const Color(0xFF053F8D).withOpacity(0.6),
+                      color: const Color(0xFF053F8D).withOpacity(0.6),
                       shape: BoxShape.rectangle,
                     )),
               ),
             ),
             Padding(
-              padding: EdgeInsets.only(bottom: MySize.size13!,left:MySize.size10!,right: MySize.size10!),
+              padding: EdgeInsets.only(
+                  bottom: MySize.size13!,
+                  left: MySize.size10!,
+                  right: MySize.size10!),
               child: Container(
-            
                 decoration: BoxDecoration(
                   borderRadius: const BorderRadius.only(
                     bottomLeft: Radius.circular(65.0),
@@ -66,7 +71,7 @@ class TopSection extends StatelessWidget {
                       colors: [Color(0xFF82DAF4), Color(0xFF207AF5)]),
                   shape: BoxShape.rectangle,
                 ),
-                height: MySize.scaleFactorHeight * 357,
+                // height: MySize.scaleFactorHeight * 357,
                 child: SafeArea(
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.start,
@@ -85,11 +90,13 @@ class TopSection extends StatelessWidget {
                             image: AssetImage(
                                 'assets/images/${selectedWeather.weather.first.icon}.png'),
                           ),
-                          Column(crossAxisAlignment: CrossAxisAlignment.start,
+                          Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Text(
                                 convertDate(
-                                    dt:selectedWeather.dt, offset: timezoneOffset),
+                                    dt: selectedWeather.dt,
+                                    offset: timezoneOffset),
                                 style: const TextStyle(
                                     color: Colors.white,
                                     fontFamily: 'OpenSauceSans',
@@ -121,7 +128,8 @@ class TopSection extends StatelessWidget {
                                         CrossAxisAlignment.start,
                                     children: [
                                       Text(
-                                        selectedWeather.temp.min.toStringAsFixed(0),
+                                        selectedWeather.temp.min
+                                            .toStringAsFixed(0),
                                         style: const TextStyle(
                                             color: Color(0XFF71CBFB),
                                             fontFamily: 'OpenSauceSans',
@@ -145,7 +153,7 @@ class TopSection extends StatelessWidget {
                                   ),
                                 ],
                               ),
-                                sizedBox,
+                              sizedBox,
                               Text(
                                 selectedWeather.weather.first.description,
                                 style: const TextStyle(
@@ -161,30 +169,32 @@ class TopSection extends StatelessWidget {
                           ),
                         ],
                       ),
-                       sizedBox,
+                      sizedBox,
                       Padding(
-                        padding:  EdgeInsets.symmetric(horizontal:K.width*20.0),
+                        padding:
+                            EdgeInsets.symmetric(horizontal: K.width * 20.0),
                         child: Row(
-                                          
                           children: [
                             Expanded(
                               child: ConditionWeather(
-                                  number:
-                                      selectedWeather.windSpeed.toString() + "m/s",
+                                  number: selectedWeather.windSpeed.toString() +
+                                      "m/s",
                                   pathImage: "Wind",
                                   sizeImage: 31,
                                   status: "Wind"),
                             ),
                             Expanded(
                               child: ConditionWeather(
-                                  number: selectedWeather.humidity.toString() + "%",
+                                  number:
+                                      selectedWeather.humidity.toString() + "%",
                                   pathImage: "Humadity",
                                   sizeImage: 12,
                                   status: "Humidity"),
                             ),
                             Expanded(
                               child: ConditionWeather(
-                                  number: selectedWeather.clouds.toString() + "%",
+                                  number:
+                                      selectedWeather.clouds.toString() + "%",
                                   pathImage: "COR",
                                   sizeImage: 21,
                                   status: "Change of Rain"),
@@ -206,4 +216,3 @@ class TopSection extends StatelessWidget {
     );
   }
 }
-

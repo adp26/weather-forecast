@@ -1,13 +1,13 @@
 <libraries>
   <library
-      name="__local_aars__:/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
-      jars="/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/intermediates/flutter/release/libs.jar"
-      resolved="__local_aars__:/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
+      name="__local_aars__:/Users/achmaddp26/development/weather_forecast/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
+      jars="/Users/achmaddp26/development/weather_forecast/build/app/intermediates/flutter/release/libs.jar"
+      resolved="__local_aars__:/Users/achmaddp26/development/weather_forecast/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
   <library
-      name="/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android@@:geolocator_android::release"
-      jars="/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/.transforms/f8dc6387922043f38dff23ffe9f6af60/transformed/out/jars/classes.jar:/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/.transforms/f8dc6387922043f38dff23ffe9f6af60/transformed/out/jars/libs/R.jar"
+      name="/Users/achmaddp26/development/weather_forecast/android@@:geolocator_android::release"
+      jars="/Users/achmaddp26/development/weather_forecast/build/geolocator_android/.transforms/5e83730725a9b087ac3ea243096fdaf7/transformed/out/jars/classes.jar:/Users/achmaddp26/development/weather_forecast/build/geolocator_android/.transforms/5e83730725a9b087ac3ea243096fdaf7/transformed/out/jars/libs/R.jar"
       resolved="com.baseflow.geolocator:geolocator_android:unspecified"
-      folder="/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/.transforms/f8dc6387922043f38dff23ffe9f6af60/transformed/out"
+      folder="/Users/achmaddp26/development/weather_forecast/build/geolocator_android/.transforms/5e83730725a9b087ac3ea243096fdaf7/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -17,10 +17,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android@@:geocoding::release"
-      jars="/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geocoding/.transforms/8a60905761f9c9f24b8767e0bad794f2/transformed/out/jars/classes.jar:/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geocoding/.transforms/8a60905761f9c9f24b8767e0bad794f2/transformed/out/jars/libs/R.jar"
+      name="/Users/achmaddp26/development/weather_forecast/android@@:geocoding::release"
+      jars="/Users/achmaddp26/development/weather_forecast/build/geocoding/.transforms/271654d823f6bec7efa9c4d5cc049d30/transformed/out/jars/classes.jar:/Users/achmaddp26/development/weather_forecast/build/geocoding/.transforms/271654d823f6bec7efa9c4d5cc049d30/transformed/out/jars/libs/R.jar"
       resolved="com.baseflow.geocoding:geocoding:unspecified"
-      folder="/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geocoding/.transforms/8a60905761f9c9f24b8767e0bad794f2/transformed/out"
+      folder="/Users/achmaddp26/development/weather_forecast/build/geocoding/.transforms/271654d823f6bec7efa9c4d5cc049d30/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -30,10 +30,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android@@:path_provider_android::release"
-      jars="/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/path_provider_android/.transforms/1ba6c8e35b8be1901064607d6c679149/transformed/out/jars/classes.jar:/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/path_provider_android/.transforms/1ba6c8e35b8be1901064607d6c679149/transformed/out/jars/libs/R.jar"
+      name="/Users/achmaddp26/development/weather_forecast/android@@:path_provider_android::release"
+      jars="/Users/achmaddp26/development/weather_forecast/build/path_provider_android/.transforms/53bbb8a2cef621f5408ad0f37c8c05ba/transformed/out/jars/classes.jar:/Users/achmaddp26/development/weather_forecast/build/path_provider_android/.transforms/53bbb8a2cef621f5408ad0f37c8c05ba/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.pathprovider:path_provider_android:unspecified"
-      folder="/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/path_provider_android/.transforms/1ba6c8e35b8be1901064607d6c679149/transformed/out"
+      folder="/Users/achmaddp26/development/weather_forecast/build/path_provider_android/.transforms/53bbb8a2cef621f5408ad0f37c8c05ba/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

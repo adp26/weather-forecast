@@ -900,6 +900,25 @@
             "outputFile": "com.example.flutter_perkiraan_cuaca.app-merged_res-14:/values_values.arsc.flat",
             "map": [
                 {
+                    "source": "/Users/achmaddp26/development/weather_forecast/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,807",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "465,971"
+                    },
+                    "to": {
+                        "startLines": "121,125",
+                        "startColumns": "4,4",
+                        "startOffsets": "8627,8808",
+                        "endLines": "124,127",
+                        "endColumns": "12,12",
+                        "endOffsets": "8803,8972"
+                    }
+                },
+                {
                     "source": "/Users/achmaddp26/.gradle/caches/transforms-3/fa79ae2f5e8fb5f4b79f5fc829614608/transformed/jetified-play-services-basement-18.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "4,7",
@@ -950,25 +969,6 @@
                         "startOffsets": "6042",
                         "endColumns": "42",
                         "endOffsets": "6080"
-                    }
-                },
-                {
-                    "source": "/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,807",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "465,971"
-                    },
-                    "to": {
-                        "startLines": "121,125",
-                        "startColumns": "4,4",
-                        "startOffsets": "8627,8808",
-                        "endLines": "124,127",
-                        "endColumns": "12,12",
-                        "endOffsets": "8803,8972"
                     }
                 },
                 {
@@ -3229,7 +3229,7 @@
             "outputFile": "com.example.flutter_perkiraan_cuaca.app-merged_res-14:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/achmaddp26/development/weather_forecast/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

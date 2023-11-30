@@ -7,9 +7,9 @@ com.baseflow.geolocator.geolocator_android-lifecycle-runtime-2.3.1-5 /Users/achm
 com.baseflow.geolocator.geolocator_android-jetified-play-services-basement-18.0.0-6 /Users/achmaddp26/.gradle/caches/transforms-3/fa79ae2f5e8fb5f4b79f5fc829614608/transformed/jetified-play-services-basement-18.0.0/res
 com.baseflow.geolocator.geolocator_android-main-7 /Users/achmaddp26/.pub-cache/hosted/pub.dev/geolocator_android-4.1.4/android/src/main/res
 com.baseflow.geolocator.geolocator_android-release-8 /Users/achmaddp26/.pub-cache/hosted/pub.dev/geolocator_android-4.1.4/android/src/release/res
-com.baseflow.geolocator.geolocator_android-pngs-9 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/generated/res/pngs/release
-com.baseflow.geolocator.geolocator_android-resValues-10 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/generated/res/resValues/release
-com.baseflow.geolocator.geolocator_android-rs-11 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/generated/res/rs/release
-com.baseflow.geolocator.geolocator_android-mergeReleaseResources-12 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
-com.baseflow.geolocator.geolocator_android-mergeReleaseResources-13 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-com.baseflow.geolocator.geolocator_android-merged_res-14 /Users/achmaddp26/Downloads/code flutter/Weather_Forecast-main/flutter_perkiraan_cuaca/build/geolocator_android/intermediates/merged_res/release
+com.baseflow.geolocator.geolocator_android-pngs-9 /Users/achmaddp26/development/weather_forecast/build/geolocator_android/generated/res/pngs/release
+com.baseflow.geolocator.geolocator_android-resValues-10 /Users/achmaddp26/development/weather_forecast/build/geolocator_android/generated/res/resValues/release
+com.baseflow.geolocator.geolocator_android-rs-11 /Users/achmaddp26/development/weather_forecast/build/geolocator_android/generated/res/rs/release
+com.baseflow.geolocator.geolocator_android-mergeReleaseResources-12 /Users/achmaddp26/development/weather_forecast/build/geolocator_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.baseflow.geolocator.geolocator_android-mergeReleaseResources-13 /Users/achmaddp26/development/weather_forecast/build/geolocator_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.baseflow.geolocator.geolocator_android-merged_res-14 /Users/achmaddp26/development/weather_forecast/build/geolocator_android/intermediates/merged_res/release
